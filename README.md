@@ -18,30 +18,28 @@ Please submit your solution at least 2-3 days before your technical interview. Y
 
 Please make sure to email a link to a GitHub/Bitbucket/GitLab/etc. repo to [challenge@digitalservice.bund.de](mailto:challenge@digitalservice.bund.de). Make sure to make the repo private 3 days after the interview.
 
-
-2. Email 
+2. Email
 
 Please make sure to also email your solution as a zip file to [challenge@digitalservice.bund.de](mailto:challenge@digitalservice.bund.de). Make sure to include the commit history in your submission.
 
 ## Evaluation
 
-We want to use this challenge to understand how you would approach such a problem in a work setting. Here are some specifics of what we are looking for:
+We want to use this challenge to understand how you would approach such a problem in a work setting.
 
-Among other things, we pay attention to:
+We are going to pay attention to:
+
+- an accessible and usable solution
 - how you structure your application and your source code,
-- how you name variables/functions/classes/packages,
+- a robust understanding of HTML, CSS and JavaScript
 - how you test your application and what kinds of tests you're writing,
 - how you document your application, including instructions to run the project,
 - what your commits look like,
-- whether you know how to consume APIs efficiently,
 - what tooling you use,
 - overall consistency & attention to detail.
 
 You should turn in a complete and runnable solution, but do not gold-plate it: we don't expect you to spend more than a few hours on this exercise.
 
 In the technical interview that follows we would like to discuss your approach, and that includes talking about areas you would want to improve if given more time.
-
-Note that the UI won't be part of the evaluation (could be plain HTML for instance).
 
 ## Have fun! 🚀
 
