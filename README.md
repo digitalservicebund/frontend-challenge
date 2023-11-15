@@ -12,7 +12,7 @@ Use a non-proprietary tech stack of your choice and explain in a readme how to r
 
 ## Submitting your solution
 
-Please submit your solution at least 2-3 days before your technical interview. You have two options:
+You have two options for submitting your solution:
 
 1. Hosted repository (preferred)
 
