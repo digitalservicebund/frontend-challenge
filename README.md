@@ -1,12 +1,12 @@
 # GovData Dashboard
 
-[GovData.de](https://www.govdata.de/) is the data portal for Germany. The federal, state and local governments can share their data. Although the "Open Data Act" makes it obligatory to share data, only about 52,000 data sets are online so far.
+[GovData.de](https://www.govdata.de/) is the data portal for Germany. The federal, state and local governments can share their data.
 
 ## Your Task
 
 Create a small web application that provides a dashboard showing how many data sets each federal ministry has made available on GovData. The dashboard should provide the possibility to filter the currently shown result set. It should be easy to tell from the dashboard which ministries have provided the most data.
 
-Data for the dashboard is going to be provided by a backend in the future, but such an API is not in place yet (imagine your colleagues are working on it). Provided already is an exemplary JSON file that resembles a response from the planned API.
+Data for the dashboard is going to be provided by a backend in the future, but such an API is not in place yet (imagine your colleagues are working on it). In the meantime please execute `npx json-server backend-response.json` to create a sample API locally. Please let your web application fetch the data from that local API.
 
 Use a non-proprietary tech stack of your choice and explain in a readme how to run your solution. Please use version control (git is preferred).
 
